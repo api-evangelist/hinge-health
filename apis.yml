@@ -1,0 +1,111 @@
+aid: hinge-health
+name: Hinge Health
+description: >-
+  Hinge Health is a San Francisco-based digital musculoskeletal (MSK) care
+  company founded in 2014 by Daniel Perez and Gabriel Mecklenburg, delivering
+  virtual physical therapy, pelvic health, and chronic pain care to enterprise
+  health plans, employers, and their members. The platform combines
+  on-demand exercise therapy with a multidisciplinary care team — physical
+  therapists, health coaches, board-certified physicians, and orthopedic
+  specialists — augmented by 3D motion tracking, computer vision, and an
+  in-house AI Care Assistant. Hinge Health develops Enso, an FDA-cleared,
+  drug-free wearable that delivers proprietary electrical stimulation
+  waveforms for pain relief, and operates HingeConnect, an EMR/claims
+  interoperability layer that ingests records from more than one million
+  external providers across 120,000+ care sites to coordinate care, surface
+  surgical and opioid risk, and feed real-time clinical context into the
+  digital clinic. The company also runs HingeSelect, a national provider
+  network for in-person MSK care, and contracts with all five major US
+  national health plans plus employers including Boeing, Salesforce, and
+  US Foods. Hinge Health raised more than $1 billion from Insight Partners,
+  Tiger Global, Coatue, and Atomico before completing its IPO on the New
+  York Stock Exchange under the ticker HNGE on May 22, 2025, pricing at
+  $32/share and opening at $39.25 for an initial market capitalization
+  above $3 billion. There is no public developer API, SDK, or open-source
+  release for Hinge Health, Enso, or HingeConnect — the platform is sold
+  as a managed clinical service to health plans and employers, and the
+  HingeConnect interoperability surface is operated internally rather than
+  exposed to third-party developers.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Digital Health
+  - Musculoskeletal Care
+  - MSK
+  - Virtual Physical Therapy
+  - Pelvic Health
+  - Chronic Pain
+  - Digital Therapeutics
+  - Wearables
+  - Enso
+  - HingeConnect
+  - EMR Interoperability
+  - Health Plans
+  - Employer Health
+  - Value Based Care
+  - Public Company
+url: https://raw.githubusercontent.com/api-evangelist/hinge-health/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.hingehealth.com
+  - type: HingeConnect
+    url: https://www.hingehealth.com/hingeconnect
+  - type: Enso
+    url: https://www.hingehealth.com/enso
+  - type: PelvicHealth
+    url: https://www.hingehealth.com/pelvic-health
+  - type: HingeSelect
+    url: https://www.hingehealth.com/hingeselect
+  - type: ForEmployers
+    url: https://www.hingehealth.com/for-employers
+  - type: ForHealthPlans
+    url: https://www.hingehealth.com/for-health-plans
+  - type: ForConsultants
+    url: https://www.hingehealth.com/for-consultants
+  - type: Outcomes
+    url: https://www.hingehealth.com/outcomes
+  - type: Research
+    url: https://www.hingehealth.com/research
+  - type: Resources
+    url: https://www.hingehealth.com/resources
+  - type: PressReleases
+    url: https://www.hingehealth.com/resources/press-releases
+  - type: Blog
+    url: https://www.hingehealth.com/resources/blog
+  - type: Company
+    url: https://www.hingehealth.com/company
+  - type: Leadership
+    url: https://www.hingehealth.com/company/leadership
+  - type: Careers
+    url: https://www.hingehealth.com/careers
+  - type: InvestorRelations
+    url: https://investors.hingehealth.com
+  - type: SECFilings
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001673743
+  - type: Security
+    url: https://www.hingehealth.com/trust
+  - type: Privacy
+    url: https://www.hingehealth.com/privacy
+  - type: Terms
+    url: https://www.hingehealth.com/terms
+  - type: Contact
+    url: https://www.hingehealth.com/contact
+  - type: GitHub
+    url: https://github.com/hinge-health
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hinge-health
+  - type: Twitter
+    url: https://twitter.com/hingehealth
+  - type: YouTube
+    url: https://www.youtube.com/@hingehealth
+  - type: StockSymbol
+    url: https://www.nyse.com/quote/XNYS:HNGE
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
