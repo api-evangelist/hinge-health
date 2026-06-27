@@ -3,16 +3,12 @@
   "feeds": [
     {
       "source": "https://www.hingehealth.com/resources/articles",
-      "feed_url": "https://www.hingehealth.com/resources/articles",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
-      "source": "https://www.hingehealth.com/resources/press-releases",
-      "error": "HTTPError"
+      "feed_url": "",
+      "saved": 13,
+      "method": "agent-scrape"
     }
   ],
-  "post_count": 3,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 24,
+  "fetched": "2026-06-27T12:46:04Z",
+  "agent_pulled": "2026-06-27"
 }
