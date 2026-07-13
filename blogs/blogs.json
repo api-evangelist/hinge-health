@@ -2,13 +2,11 @@
   "repo": "hinge-health",
   "feeds": [
     {
-      "source": "https://www.hingehealth.com/resources/articles",
-      "feed_url": "",
-      "saved": 13,
-      "method": "agent-scrape"
+      "source": "https://www.hingehealth.com/resources/press-releases",
+      "error": "HTTPError"
     }
   ],
   "post_count": 24,
-  "fetched": "2026-06-27T12:46:04Z",
-  "agent_pulled": "2026-06-27"
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
