@@ -55,6 +55,22 @@ tags:
   - EMR Interoperability
   - Health Plans
   - Employer Health
+  - Value-Based Care
+  - Public Company
+tags_raw:
+  - Digital Health
+  - Musculoskeletal Care
+  - MSK
+  - Virtual Physical Therapy
+  - Pelvic Health
+  - Chronic Pain
+  - Digital Therapeutics
+  - Wearables
+  - Enso
+  - HingeConnect
+  - EMR Interoperability
+  - Health Plans
+  - Employer Health
   - Value Based Care
   - Public Company
 url: https://raw.githubusercontent.com/api-evangelist/hinge-health/refs/heads/main/apis.yml
