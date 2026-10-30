@@ -1,4 +1,4 @@
-# hinge-health
+# Hinge Health
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hinge Health — digital musculoskeletal (MSK) and pelvic health care (NYSE: HNGE)
+Hinge Health is a San Francisco-based digital musculoskeletal (MSK) care company founded in 2014 by Daniel Perez and Gabriel Mecklenburg, delivering virtual physical therapy, pelvic health, and chronic pain care to enterprise health plans, employers, and their members. The platform combines on-demand exercise therapy with a multidisciplinary care team — physical therapists, health coaches, board-certified physicians, and orthopedic specialists — augmented by 3D motion tracking, computer vision, and an in-house AI Care Assistant. Hinge Health develops Enso, an FDA-cleared, drug-free wearable that delivers proprietary electrical stimulation waveforms for pain relief, and operates HingeConnect, an EMR/claims interoperability layer that ingests records from more than one million external providers across 120,000+ care sites to coordinate care, surface surgical and opioid risk, and feed real-time clinical context into the digital clinic. The company also runs HingeSelect, a national provider network for in-person MSK care, and contracts with all five major US national health plans plus employers including Boeing, Salesforce, and US Foods. Hinge Health raised more than $1 billion from Insight Partners, Tiger Global, Coatue, and Atomico before completing its IPO on the New York Stock Exchange under the ticker HNGE on May 22, 2025, pricing at $32/share and opening at $39.25 for an initial market capitalization above $3 billion. There is no public developer API, SDK, or open-source release for Hinge Health, Enso, or HingeConnect — the platform is sold as a managed clinical service to health plans and employers, and the HingeConnect interoperability surface is operated internally rather than exposed to third-party developers.
+
+**Areas:** Digital Health · Musculoskeletal Care · MSK · Virtual Physical Therapy · Pelvic Health · Chronic Pain · Digital Therapeutics · Wearables · Enso · HingeConnect · EMR Interoperability · Health Plans
+
+## Hinge Health on APIs.io
+
+Everything profiled for Hinge Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hinge-health/](https://apis.io/providers/hinge-health/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hinge Health Domain Security](https://apis.io/security/hinge-health/hinge-health-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hingehealth.com)
+- [Blog](https://www.hingehealth.com/resources/blog)
+- [Security](https://www.hingehealth.com/trust)
+
+## API Evangelist rating
+
+**Kin Score 7.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hinge-health/](https://apis.io/providers/hinge-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hinge Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hinge-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
